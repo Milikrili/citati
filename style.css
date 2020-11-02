@@ -1,0 +1,42 @@
+.div{
+width: 800px;
+height: 800px;
+margin-left: 100px;
+background-image:url("background.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+color: rgb(39, 6, 6);
+padding-left: 30px;
+padding-top: 30px;
+font-size: large;
+font-weight: bolder;
+border:solid 10px rgb(179, 50, 50);
+border-radius: 10px;
+font-family: 'Montserrat', sans-serif;
+font-size: 16pt;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+}
+img{
+border: solid 6px rgb(179, 50, 50);
+border-radius: 10px;
+}
+#naslov{
+    font-weight: bolder;
+    text-align: center;
+   
+}
+#dugme {
+    padding: 12px 28px;
+    margin-left: 100px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(65, 143, 216);
+    color: rgb(179, 50, 50);
+    font-weight: bold;
+    font-size: 15pt;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+   
+}
+    
